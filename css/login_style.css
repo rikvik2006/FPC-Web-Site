@@ -1,0 +1,14 @@
+* {
+    padding :  0; 
+    margin : 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #36393F;
+    font-family: 'MuseoModerno', cursive;
+}
+
+#login {
+    font-family: 'MuseoModerno', cursive;
+}

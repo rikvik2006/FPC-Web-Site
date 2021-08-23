@@ -1,4 +1,4 @@
-const menuBtn = document.querySelector('.menu-btn');
+const menuBtn = document.querySelector('#minimenu');
 let menuOpen = false;
 menuBtn.addEventListener('click', () => {
   if(!menuOpen) {
